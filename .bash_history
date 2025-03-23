@@ -29,3 +29,19 @@ git --version
 git remote add origin https://github.com/MazPugo/nextwork-devops-webapp.git
 git remote -v
 pwd
+cd ..
+pwd
+mvn -v
+java -version
+mvn archetype:generate    -DgroupId=com.nextwork.app    -DartifactId=nextwork-web-project    -DarchetypeArtifactId=maven-archetype-webapp    -DinteractiveMode=false
+mvn archetype:generate    -DgroupId=com.nextwork.app    -DartifactId=nextwork-devops-webapp    -DarchetypeArtifactId=maven-archetype-webapp    -DinteractiveMode=false
+sudo dnf update -y
+sudo dnf install git -y
+git --version
+git remote add origin https://github.com/MazPugo/nextwork-devops-webapp.git
+git init
+git remote add origin https://github.com/MazPugo/nextwork-devops-webapp.git
+git remote -v
+git add . 
+git add .
+git commit -m "Updated settings.xml with new content"

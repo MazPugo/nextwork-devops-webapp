@@ -1,1 +1,2 @@
 2025-03-23 14:55:30.526 [info] Log level: Info
+2025-03-23 15:38:11.656 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for MazPugo/nextwork-devops-webapp/934c3464d06ff1cd9431a0e87a114ae72e2c5f31: TypeError: Cannot read properties of null (reading 'author')
