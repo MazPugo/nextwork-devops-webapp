@@ -1,0 +1,16 @@
+2025-03-23 14:31:01.006 [info] Extension host with pid 40440 started
+2025-03-23 14:31:01.019 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/7b89424c8446f2748e62b458f76c0ebe/vscode.lock': Lock acquired.
+2025-03-23 14:31:01.113 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-03-23 14:31:01.465 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-03-23 14:31:01.466 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-03-23 14:31:02.005 [info] Eager extensions activated
+2025-03-23 14:31:02.005 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-23 14:31:02.005 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-23 14:50:07.754 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-03-23 14:50:13.092 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-03-23 14:50:13.093 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-03-23 14:50:13.093 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-03-23 14:50:13.094 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-23 14:54:50.572 [info] Extension host terminating: received terminate message from renderer
+2025-03-23 14:54:50.573 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/7b89424c8446f2748e62b458f76c0ebe/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-03-23 14:54:50.613 [info] Extension host with pid 40440 exiting with code 0
