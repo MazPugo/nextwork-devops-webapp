@@ -1,4 +1,0 @@
-Listening on 127.0.0.1:46309
-[2025-03-23 15:40:29] info Disposed of connection to running server.
-[2025-03-23 15:40:29] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/pid.txt for a running server...
-[2025-03-23 15:40:29] info Found running server (pid=40271)
